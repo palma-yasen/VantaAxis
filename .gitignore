@@ -28,3 +28,9 @@
 !/img/pc/pc2.jpg
 !/img/pc/pc3.jpg
 !/img/pc/pc5.jpg
+
+
+# * [2026, 3 ноября, 19:13:30]: добавлены отдельные копии скриншотов со стрелками.
+!/img/guide/
+/img/guide/*
+!/img/guide/*.png
