@@ -14,3 +14,17 @@
 **/*.bak
 **/.env
 **/.env.*
+
+# * [2026, 3 ноября, 19:09:31]: разрешены только используемые в инструкции скриншоты.
+!/img/
+/img/*
+!/img/mobile/
+!/img/pc/
+/img/mobile/*
+/img/pc/*
+!/img/mobile/m3.jpg
+!/img/mobile/m4.jpg
+!/img/mobile/m6.jpg
+!/img/pc/pc2.jpg
+!/img/pc/pc3.jpg
+!/img/pc/pc5.jpg
